@@ -1,0 +1,15 @@
+---
+layout: default
+title: Getting Started With...
+---
+
+<div id="home">
+  <h1>What's this About?</h1>
+  <p>I spend a lot of time in my work as a librarian and aspiring digital humanist looking into new technologies and teaching myself the basics of things. So I figured that I'd share the ride as I pick up the basics of various technologies.</p> 
+  <h1>Technologies</h1>
+  <ul class="posts">
+    {% for post in site.posts %}
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+</div>
