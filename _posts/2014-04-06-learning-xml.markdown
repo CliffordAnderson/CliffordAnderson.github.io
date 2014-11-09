@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Getting started with XML"
+title:  "Get started with XML"
 date:   2014-11-09 15:40:56
-categories: technologies
+categories: tech
 ---
 
 {% highlight xml %}
