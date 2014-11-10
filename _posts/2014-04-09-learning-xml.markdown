@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Get started with XML"
+title:  "Get started with XML Markup"
 date:   2014-11-09 15:40:56
 categories: tech
 ---
