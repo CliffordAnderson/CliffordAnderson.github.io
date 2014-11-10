@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Get started with Validating XML"
+title:  "Get started with validating XML"
 date:   2014-11-09 18:49:00
 categories: tech
 ---
